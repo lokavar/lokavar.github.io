@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>周末啦</title>
+      <link href="/2026/05/10/2026-5-10/"/>
+      <url>/2026/05/10/2026-5-10/</url>
+      
+        <content type="html"><![CDATA[<p>又想起了博客，目前重新启用网站，发现之前弄了两个域名，只有这个才绑定了云服务器。</p><p>怪不得网址内容不随我的内容推送而更新，还特意检查了一下nginx代理是否正确，还顺便排查了下网址服务和云服务器的服务。</p><hr><p>之后更新就没有啥阻碍了，太长时间不弄，果然忘得太快了啊</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> personal </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> highlight </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>终于找回登录密码啦</title>
       <link href="/2026/05/05/%E7%BB%88%E4%BA%8E%E6%89%BE%E5%9B%9E%E7%99%BB%E5%BD%95%E5%AF%86%E7%A0%81%E5%95%A6/"/>
       <url>/2026/05/05/%E7%BB%88%E4%BA%8E%E6%89%BE%E5%9B%9E%E7%99%BB%E5%BD%95%E5%AF%86%E7%A0%81%E5%95%A6/</url>
@@ -89,32 +114,7 @@
       
         <tags>
             
-            <tag> highlight </tag>
-            
             <tag> Test </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Code Highlight</title>
-      <link href="/2025/05/24/%E5%91%A8%E6%9C%AB%E5%95%A6/"/>
-      <url>/2025/05/24/%E5%91%A8%E6%9C%AB%E5%95%A6/</url>
-      
-        <content type="html"><![CDATA[<p>又想起了博客，目前重新启用网站，发现之前弄了两个域名，只有这个才绑定了云服务器。</p><p>怪不得网址内容不随我的内容推送而更新，还特意检查了一下nginx代理是否正确，还顺便排查了下网址服务和云服务器的服务。</p><hr><p>之后更新就没有啥阻碍了，太长时间不弄，果然忘得太快了啊</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> personal </category>
-          
-      </categories>
-      
-      
-        <tags>
             
             <tag> highlight </tag>
             
